@@ -1,1 +1,1 @@
-# ReadME-Generator
+# ReadME-Generator{"name":"peter","email":"peter@.com","project":"readme","description":"generate","license":"mit","dependencies":"nmp i","tests":"npm test","repo":"nothing","contributing-repo":"nada"}
