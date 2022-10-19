@@ -48,7 +48,17 @@ inquirer
 });
 
 function formatData(data) {
-    let output = "Github UserName: " + data.name + "\n";
+    let output = "Github UserName:\n" + data.name + "\n";
+    output += "Github Email: " + data.email + "\n";
+
     
-    return JSON.stringify(data);
+    output += "Title: " + data.project + "\n";
+    output += "Description: " + data.description + "\n";
+    output += "License: " + data.license + "\n";
+    output += "Dependencies: " + data.dependencies + "\n";
+    output += "Test: " + data.tests + "\n";
+    output += "Test: " + data.repo + "\n";
+    output += "Test: " + data.contributing + "\n";
+
+    return output;
 }
