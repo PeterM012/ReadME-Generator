@@ -16,8 +16,7 @@
   "bugs": {
     "url": "https://github.com/PeterM012/ReadME-Generator/issues"
   },
-  "homepage": "https://github.com/PeterM012/ReadME-Generator#readme",
-  "dependencies": {
+ "dependencies": {
     "inquirer": "^8.2.4"
   }
 }

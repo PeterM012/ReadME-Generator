@@ -50,8 +50,8 @@ inquirer
 });
 
 function formatData(data) {
-    let output = "### Title: " + data.project + "\n";
-    output += "[![License: MIT](https://img.shields.io/badge/License-" + data.license + "-blue.svg)](https://opensource.org/licenses/" + data.license + ")";
+    let output = "# " + data.project + "\n\n";
+    output += "[![License: MIT](https://img.shields.io/badge/License-" + data.license + "-blue.svg)](https://opensource.org/licenses/" + data.license + ")\n";
     output += "## Description\n" + data.description + "\n";
     output += "## Table of Contents:\n" 
     output += "- [Installation](#installation)\n";
@@ -62,7 +62,7 @@ function formatData(data) {
     output += "- [Questions](#questions)\n";
     output += "## Installation\n" + data.dependencies + "\n";
     output += "## Usage\n" + data.repo + "\n";
-    output += "## License\n" + data.license + "\n";
+    output += "## License\n" + "https://opensource.org/licenses/" + data.license + "\n";
     output += "## Contributing\n" + data.contributing + "\n";
     output += "## Test\n" + data.tests + "\n";
     output += "## Questions\n" + "If you have any questions about the repo, open an issue or contact me directly at " + data.email + ". You can find more of my work at [" + data.name + "](https://github.com/" + data.name + ")." + "\n"
