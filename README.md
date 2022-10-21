@@ -1,8 +1,8 @@
-# qewqewqeqweqw
+# ReadME Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ## Description
-ewqwqewqewq
+This project was to demonstrate how to create a professional readMe using Node Js.
 ## Table of Contents:
 - [Installation](#installation)
 - [Usage](#usage)
@@ -11,18 +11,18 @@ ewqwqewqewq
 - [Tests](#test)
 - [Questions](#questions)
 ## Installation
-ewewqewqe
+npm i inquirer
 ## Usage
-weqweqwewq
+Please respect the hard work!
 ## Credit
-qweqwewqewq
+none
 ## License
 https://opensource.org/licenses/MIT
 ## Features
-eqw
+none
 ## Contributing
-ewqewqew
+Enjoy the ease of making a ReadME.
 ## Test
-eqweqwewqeqweq
+npm test
 ## Questions
-If you have any questions about the repo, open an issue or contact me directly at weqwewqewqe. You can find more of my work at [wdwqwewqeq](https://github.com/wdwqwewqeq).
+If you have any questions about the repo, open an issue or contact me directly at m_pete3d@gmail.com	. You can find more of my work at [PeterM012](https://github.com/PeterM012).
