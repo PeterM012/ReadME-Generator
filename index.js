@@ -1,10 +1,10 @@
+// Included packages needed for this application
 const inquirer = require("inquirer");
 const fs = require("fs");
 const genMD = require("./generateMarkdown.js");
 
-// TODO: Include packages needed for this application
 
-// TODO: Create an array of questions for user input
+// Created an array of questions for user input
 const questions = [
   {
     message: "What is your Github username?",
@@ -54,14 +54,14 @@ const questions = [
   },
 ];
 
-// TODO: Create a function to write README file
+// Creates a function to write README file
 function writeToFile(fileName, data) {
   fs.writeFile(fileName, data, (err) => {
     err ? console.error(err) : console.log("Success!");
   });
 }
 
-// TODO: Create a function to initialize app
+// Creates a function to initialize app
 function init() {
   inquirer
     .prompt(questions)
