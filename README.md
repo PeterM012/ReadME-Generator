@@ -10,7 +10,7 @@ https://drive.google.com/file/d/1qaOI2iJRnSTS9CNvqa9LfrSGVCky2_Ss/view
 ## To Do
 - Give a command-line application that accepts user input
 - Prompt for information about application repository
-- Generate a high-quality, professional README.md with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, - --- Contributing, Tests, and Questions
+- Generate a high-quality, professional README.md with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License,       Contributing, Tests, and Questions
 - Enter project title display as the title of the README
 - Enter a description, installation instructions, usage information, contribution guidelines, and test instructions information is added to the sections of the README   entitled Description, Installation, Usage, Contributing, and Tests
 - Choose a license for application from a list of options add a badge for that license near the top of the README and a notice is added to the section of the README     entitled License that explains which license the application is covered under
