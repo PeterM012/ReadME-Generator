@@ -8,15 +8,15 @@ https://drive.google.com/file/d/1qaOI2iJRnSTS9CNvqa9LfrSGVCky2_Ss/view
 - Node JS - Run Code outside browser and add in additional modules
 
 ## To Do
-Give a command-line application that accepts user input
-Prompt for information about application repository
-Generate a high-quality, professional README.md with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
-Enter project title display as the title of the README
-Enter a description, installation instructions, usage information, contribution guidelines, and test instructions information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
-Choose a license for application from a list of options add a badge for that license near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
-Enter GitHub username added to the section of the README entitled Questions, with a link to GitHub profile
-Enter email address this is added to the section of the README entitled Questions, with instructions on how to reach with additional questions
-Click on the links in the Table of Contents taken to the corresponding section of the README
+- Give a command-line application that accepts user input
+- Prompt for information about application repository
+- Generate a high-quality, professional README.md with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, - --- Contributing, Tests, and Questions
+- Enter project title display as the title of the README
+- Enter a description, installation instructions, usage information, contribution guidelines, and test instructions information is added to the sections of the README   entitled Description, Installation, Usage, Contributing, and Tests
+- Choose a license for application from a list of options add a badge for that license near the top of the README and a notice is added to the section of the README     entitled License that explains which license the application is covered under
+- Enter GitHub username added to the section of the README entitled Questions, with a link to GitHub profile
+- Enter email address this is added to the section of the README entitled Questions, with instructions on how to reach with additional questions
+- Click on the links in the Table of Contents taken to the corresponding section of the README
 
 
 ## Summary 
